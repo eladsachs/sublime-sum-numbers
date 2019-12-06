@@ -7,3 +7,6 @@ Sublime plugin for summing numbers
 
 keybindings for example:
 > { "keys": ["command+shift+o"], "command": "sum"}
+
+#### How it works:  
+![](sum-numbers.gif)
